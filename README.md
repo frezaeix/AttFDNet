@@ -12,7 +12,7 @@ Anonymous submission for ECCV 2020, paper ID 2236.
 
 Disclaimer
 ------------------
-We adopt the official implementation of the [`nocaps`](https://github.com/nocaps-org/updown-baseline) as a baseline model for novel object captioning. We use the bottom-up features provided in this repository. Please refer to these links for further README information.
+We adopt the official implementation of the [`RFBNet`](https://github.com/ruinmessi/RFBNet) as a baseline model for few-shot object detection. We also use the [`Boolean Map Saliency algorithm`](https://github.com/fzliu/saliency-bms) to extract human saliency result of given an image. Please refer to these links for further README information.
 
 Requirements
 ------------------

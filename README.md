@@ -16,9 +16,8 @@ We adopt the official implementation of the [`RFBNet`](https://github.com/ruinme
 
 Requirements
 ------------------
-1. Requirements for Pytorch. We use Pytorch 1.1.0 in our experiments.
-2. Requirements for Tensorflow. We only use the tensorboard for visualization.
-3. Python 3.6+
+1. Requirements for Pytorch. We use Pytorch 0.4.1 in our experiments.
+2. Python 3.6+
 
 Datasets
 ------------------
